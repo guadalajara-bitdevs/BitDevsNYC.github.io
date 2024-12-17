@@ -53,5 +53,4 @@ Por favor, únete a nosotros para nuestro sexto Seminario Socrático, hospedado 
 
 - [Transacciones SIGHASH_SINGLE \| ANYONECANPAY (Cualquiera puede pagar)](https://x.com/sanket1729/status/1851824134680170792)
 - [Cronología del aumento de tarifas durante una acuñación de runes](https://x.com/mononautical/status/1851830349208363379) - [Explicación](https://bitdevs.btcgdl.com/2024-12-15-fee-spike-during-mint)
-
 - [“Demo de puente” de Bitvm](https://www.bitcoinos.build/blog/its-alive-bos-and-merlin-execute-first-bitcoin-zk-bridge-transaction) y [IDs de transacciones relevantes](https://x.com/BTC_OS/status/1861424064436273556)
