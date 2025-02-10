@@ -16,10 +16,10 @@ Por favor, únete a nosotros para nuestro octavo Seminario Socrático, hospedado
 
 ## Cosas que realmente discutiremos
 
-- [Coinswap](https://bitcoinops.org/en/topics/coinswap/) - [Explicación](https://bitdevs.btcgdl.com/2025-02-14-Coinswap)
+- [Coinswap](https://bitcoinops.org/en/topics/coinswap/) - [Explicación](https://bitdevs.btcgdl.com/2025-02-11-Coinswap)
 - [Pokemon on Bitvm](#) - [Explicación](#)
 - [Trump 47](#) - [Explicación](#)
-- [Naughtify](https://www.naughtify.com/) - [Explicación](https://bitdevs.btcgdl.com/2025-02-14-Naughtify)
+- [Naughtify](https://github.com/DoktorShift/naughtify) - [Explicación](https://bitdevs.btcgdl.com/2025-02-11-Naughtify)
 - [Tornado Factory](#) - [Explicación](#)
 - [Tornado Cash](#) - [Explicación](#)
 
