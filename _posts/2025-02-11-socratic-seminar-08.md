@@ -2,11 +2,13 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 8"
+
 meetup: "https://www.meetup.com/es-ES/guadalajara-bitcoin-and-lightning/events/306010196/?eventorigin=group_upcoming_events"
 ---
 
 ## Anuncios
 ### Intro
+
 Por favor, únete a nosotros para nuestro octavo Seminario Socrático, hospedado en HackerGarage! Chelas y refrescos están disponibles para la compra durante el evento, y después del evento, iremos por tacos a Tomate Taquería, cortesía de [Vinteum](https://vinteum.org/).
 
 ### Siempre recuerda
@@ -15,12 +17,13 @@ Por favor, únete a nosotros para nuestro octavo Seminario Socrático, hospedado
 - [Reglas de la Casa Chatham](https://es.m.wikipedia.org/wiki/Regla_Chatham_House)
 
 
+
 ## Cosas que realmente discutiremos
 
-- [Coinswap lanza su beta pública](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0) 
+- [Coinswap lanza su beta pública](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)  - [Explicación](https://bitdevs.btcgdl.com/2025-02-11-Coinswap)
 - [Pokémon en BitVM](https://blog.rootstock.io/noticia/pkmn_bttl-a-pokemon-battle-game-written-in-zig-and-executed-with-bitvmx/) 
 - [Trump Bloque 47](https://mempool.space/block/000000000000000000010c05038d08c742d28a7a248e9d0f94ebe5102f366c8e?audit=false&showDetails=false&view=actual#overview) 
-- [Naughtify (servicio de notificación de transacciones para LNbits).](https://stacker.news/items/846967) 
+- [Naughtify (servicio de notificación de transacciones para LNbits).](https://stacker.news/items/846967)  - [Explicación](https://bitdevs.btcgdl.com/2025-02-11-Naughtify)
 - [Fábrica de Tornado](https://github.com/supertestnet/tornado_factory) 
 - [Tornado Cash](https://decrypt.co/302241/court-tornado-cash-sanctions) 
 
